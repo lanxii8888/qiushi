@@ -1,0 +1,5 @@
+{
+  "name": "Qiushi Crawler",
+  "description": "A web crawler to scrape and organize articles from the Qiushi (求是) magazine directory (2024-2026).",
+  "requestFramePermissions": []
+}
